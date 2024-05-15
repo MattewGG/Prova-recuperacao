@@ -1,0 +1,24 @@
+.containe{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.palito{
+    width: 20px;
+    height: 400px;
+    padding: 10px;
+    border: 8px solid red;
+    background: yellow;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.normal{
+    width: 150px;
+    height: 400px;
+    padding: 10px;
+    border: 8px solid red;
+    background: yellow;
+    margin: 10px;
+    border-radius: 10px;  
+}

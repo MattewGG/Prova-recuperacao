@@ -1,0 +1,24 @@
+.i{
+    display: flex;
+    justify-content: space-between;
+}
+
+.e{
+    display: flex;
+    justify-content: center;
+}
+
+.z{
+    display: flex;
+    justify-content: space-between;
+}
+
+.quadrad{
+    width: 200px;
+    height: 150px;
+    padding: 20px;
+    border: 8px solid red;
+    background: yellow;
+    margin: 30px;
+    border-radius: 10px;
+}
